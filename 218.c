@@ -2,10 +2,11 @@
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
+#include "array.h"
 #define SIZE 1000
 #define N 5
 
-// Прототипы функций
+// функции
 void task11(void);
 void task14(int size);
 void task16(int size);
